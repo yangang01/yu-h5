@@ -1,1 +1,16 @@
-m«ëˆ§½©buªàºg§·õ,z»?É©àjx?Œ'–†³÷^š¿¢ëìmþËZ¶'?¡<pÒ†ò5bË_K81Zöý»¢•Óž'Þ²ØìRÆ y¶¬{®vçºh¢ø¥zŠ.µø¥y¶ëy©­æ¤zw(uçl¶¸§‚)í¢{¦r«iË^®X§zÀÝuç(uç^r‡^²)éºØazZ]ŠÊek+aŠÉž²Æ z(§¦ëbž›­~)^uçÚº[_¢»-v)è¢ëiºÚ.¶›­~)^uçÚº[_¢»-v‹­
+self.__BUILD_MANIFEST = {
+  "__rewrites": {
+    "afterFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/yu-h5//_next/:path+",
+        "destination": "/yu-h5/_next/:path+"
+      }
+    ],
+    "fallback": []
+  },
+  "sortedPages": [
+    "/_app",
+    "/_error"
+  ]
+};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
