@@ -1,0 +1,7 @@
+.scene-3 .copy{bottom:9vh;transform:translateX(-50%)}
+.scene-3 .copy p{font-family:inherit;font-size:clamp(19px,2.5vw,30px);font-weight:400;letter-spacing:.1em;text-indent:0}
+.scene-4 .copy,.scene-5 .copy,.scene-6 .copy{bottom:44%;transform:translate(-50%,50%)}
+.scene-4 .copy p,.scene-5 .copy p,.scene-6 .copy p:first-of-type{font-family:system-ui,sans-serif;font-size:clamp(40px,8vw,88px);font-weight:770;letter-spacing:.42em;text-indent:.42em}
+.scene-5 .copy p{color:#f5f8ff}.scene-6 .copy p:first-of-type{color:#fff1e6}
+.scene-1 .self-words{display:none}.scene-3 .self-words{display:block}
+@media(max-width:720px){.scene-3 .copy{bottom:11.5vh}.scene-4 .copy,.scene-5 .copy,.scene-6 .copy{bottom:45%}.copy p{max-width:92vw;margin-left:auto;margin-right:auto}}
